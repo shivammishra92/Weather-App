@@ -8,4 +8,3 @@ We have used Javascript (script.js) to fetch the weather details from the API an
 <h3>Platform to run:</h3>
 This website is hosted via github and can be run using any browser viz. Chrome,Bing,Firefox,Brave etc.
 
-Link of the website: https://shivammishra92.github.io/Weather-App/
